@@ -1,0 +1,9 @@
+C:\Users\Machine\Desktop\c#\simple_database\Database_Search\DatabaseSearch\DatabaseSearch\obj\x64\Debug\DatabaseSearch.frmDatabase.resources
+C:\Users\Machine\Desktop\c#\simple_database\Database_Search\DatabaseSearch\DatabaseSearch\obj\x64\Debug\DatabaseSearch.Properties.Resources.resources
+C:\Users\Machine\Desktop\c#\simple_database\Database_Search\DatabaseSearch\DatabaseSearch\obj\x64\Debug\DatabaseSearch.csproj.GenerateResource.cache
+C:\Users\Machine\Desktop\c#\simple_database\Database_Search\DatabaseSearch\DatabaseSearch\obj\x64\Debug\DatabaseSearch.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\c#\simple_database\Database_Search\DatabaseSearch\DatabaseSearch\bin\x64\Debug\DatabaseSearch.exe.config
+C:\Users\Machine\Desktop\c#\simple_database\Database_Search\DatabaseSearch\DatabaseSearch\bin\x64\Debug\DatabaseSearch.exe
+C:\Users\Machine\Desktop\c#\simple_database\Database_Search\DatabaseSearch\DatabaseSearch\bin\x64\Debug\DatabaseSearch.pdb
+C:\Users\Machine\Desktop\c#\simple_database\Database_Search\DatabaseSearch\DatabaseSearch\obj\x64\Debug\DatabaseSearch.exe
+C:\Users\Machine\Desktop\c#\simple_database\Database_Search\DatabaseSearch\DatabaseSearch\obj\x64\Debug\DatabaseSearch.pdb
